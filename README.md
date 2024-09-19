@@ -36,3 +36,7 @@ Once the application is running, users can:
 - Set up initialization with biometric mode.
 - Close your session.
 
+## Code Quality
+Here is a screenshot of the SonarQube analysis for the ChitChat project:
+
+![SonarQube Analysis](./sonarQube.PNG "Project architecture diagram")
