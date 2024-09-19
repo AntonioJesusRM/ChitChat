@@ -11,6 +11,7 @@ ChitChat is a mobile chat application that allows users to communicate in real-t
 - **Hilt**: Dependency injection for Android.
 - **Room**: For local database management.
 - **Retrofit**: For network operations and API interactions.
+- **SonarQube**: For continuous inspection of code quality and security.
 - **Firebase Crashlytics**: For real-time crash reporting.
 - **Firebase Analytics**: To collect and analyze user engagement data.
 - **Firebase App Distribution**: For distributing pre-release versions of the app to testers.
@@ -39,4 +40,4 @@ Once the application is running, users can:
 ## Code Quality
 Here is a screenshot of the SonarQube analysis for the ChitChat project:
 
-![SonarQube Analysis](./sonarQube.PNG "Project architecture diagram")
+![SonarQube Analysis](./sonarQube.PNG "Project inspection code capture")
