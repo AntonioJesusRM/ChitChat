@@ -8,12 +8,12 @@ ChitChat is a mobile chat application that allows users to communicate in real-t
 
 ## Technologies Used
 - **Kotlin**: The primary programming language for Android development.
-- **Firebase Crashlytics**: For real-time crash reporting.
-- **Firebase Analytics**: To collect and analyze user engagement data.
-- **Firebase App Distribution**: For distributing pre-release versions of the app to testers.
 - **Hilt**: Dependency injection for Android.
 - **Room**: For local database management.
 - **Retrofit**: For network operations and API interactions.
+- **Firebase Crashlytics**: For real-time crash reporting.
+- **Firebase Analytics**: To collect and analyze user engagement data.
+- **Firebase App Distribution**: For distributing pre-release versions of the app to testers.
 
 ## Requirements
 - **Android Studio**: Make sure you have the latest version of Android Studio installed.
